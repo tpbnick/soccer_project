@@ -1,0 +1,13 @@
+body{
+	font-family: 'Roboto', roboto;
+    font-size:14px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-size: cover;
+	background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+
+.centertitle{
+	text-align: center;
+}
