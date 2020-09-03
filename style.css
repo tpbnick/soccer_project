@@ -11,3 +11,18 @@ body{
 .centertitle{
 	text-align: center;
 }
+
+iframe {
+    display: block;
+    border-style:none;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+}
+
