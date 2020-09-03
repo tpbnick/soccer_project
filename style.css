@@ -12,11 +12,20 @@ body{
 	text-align: center;
 }
 
+select{
+    width:50%;
+}
+
+form{
+    text-align: center;
+}
+
 iframe {
     display: block;
     border-style:none;
     margin: 0 auto;
     border-radius: 10px;
+    overflow: hidden; 
 }
 
 footer {
@@ -24,5 +33,6 @@ footer {
     height: 50px;
     bottom: 0;
     width: 100%;
+    color: #b8b8b8;
 }
 
